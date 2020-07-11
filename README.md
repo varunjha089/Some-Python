@@ -4,7 +4,8 @@ This repository will contain some **Python** programme
 
 |    S. No   |   Name    |    Link   |
 |   ---     |---        |---        |
-|    1   |   GitHub Automation    |     [link](/github/)  |
-|    2   |    Converter   |   [link](/convertor/)    |
-|    3   |    Python Documentation   |  [link](/Python-Doc/)     |
+|    1   |   GitHub Automation    |     [Link](/github/)  |
+|    2   |    Converter   |   [Link](/convertor/)    |
+|    3   |    Python Documentation   |  [Link](/Python-Doc/)     |
+|    4   |    wxPython   |   [Link](/wxPython/)    |
 |       |       |       |
